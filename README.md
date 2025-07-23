@@ -1,7 +1,7 @@
 # Smart-Assistive-Fall-detection-Eldercare
 
 <p align="center">
-  <img width="366" height="608" alt="Image" src="https://github.com/user-attachments/assets/1202cac3-7e34-40a3-9f28-f9f91754adf8" />
+  <img width="366" height="608" alt="Image" src="https://github.com/user-attachments/assets/74472452-1047-4496-b0f0-cd5f07eb2a22" />
 </p>
                                                
 # DESKRIPSI
@@ -22,7 +22,8 @@ Proyek ini dibuat untuk membantu menyelamatkan nyawa para lansia dengan memberik
 
 **DATASTREAMS**
 
-<img width="1440" height="329" alt="Image" src="https://github.com/user-attachments/assets/3e41ba7f-c827-4a57-803e-8c50a32b771f" />
+<img width="1440" height="329" alt="Image" src="https://github.com/user-attachments/assets/f0c60d7b-f5e1-47b7-9f84-3d0f3e6fe2d2" />
 
 **DASHBOARD**
-<img width="1620" height="895" alt="Image" src="https://github.com/user-attachments/assets/6a1bc4bb-f9df-4b92-91a9-feb937a9d728" />
+
+<img width="1620" height="895" alt="Image" src="https://github.com/user-attachments/assets/3bda4bd1-3c1b-4bd0-9af0-6ce6b99b1f73" />
